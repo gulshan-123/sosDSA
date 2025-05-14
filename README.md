@@ -17,10 +17,6 @@
 | 8    | Dynamic Programming + Contest Prep     | 0/1 Knapsack, LIS, DP on grids                      |
 
 ### Resources:
-Here is a professionally reformatted version of your text:
-
----
-
 **Standard Textbook Reference**
 **[Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein (CLRS)](https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf)**
 
